@@ -4,7 +4,7 @@ gem 'rails', '~> 3.2.2'
 gem 'mysql2'
 
 # core function gems
-gem 'devise',              '~> 2.0.0'
+gem 'devise',              '~> 2.2.8'
 gem 'omniauth',            '~> 1.0.1'
 gem 'inherited_resources', '~> 1.3.0'
 gem 'simple_form',         '~> 2.0.0'
